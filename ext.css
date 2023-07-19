@@ -1,0 +1,59 @@
+.carousel-item img
+{
+    height: 500px;
+    width: 100%;
+}
+img.card-img-top {
+    height: 350px;
+}
+.animation
+{
+    margin-top: 40px;
+}
+.mainheader .navbar-expand-lg.navbar-light.bg-light {
+    background-color: rgb(71, 70, 70) !important;
+    /* height: 60px;
+    width: 100%;
+     position: static;
+     top: 0; */
+     /* position: sticky; */
+
+}
+.mainheader .navbar-light .navbar-brand {
+    color:white;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.mainheader .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #fff;
+    font-weight: bolder;
+}
+.holly
+{
+    margin-top: 30px;
+}
+/* .mainheader
+{
+   height: 100px;
+   width: 100%;
+    position: fixed;
+    top: 0;
+} */
+ .row 
+ {
+    color: rgb(255, 252, 252);
+ }
+ .navbar .navbar-light .bg-light  
+ {
+    background-color: black;
+ }
+ .bg-light {
+    background-color: #0e4174!important;
+}
+.cont
+{
+    height: 70px;
+    width: 100%;
+    color: #fff;
+    background-color: black;
+}
